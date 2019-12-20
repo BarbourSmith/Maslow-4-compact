@@ -2,6 +2,11 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|GT2 Pulley|4|$6.71|https://www.amazon.com/ZRM-Timing-Pulley-Printer-Accessory/dp/B07L54BSXS|
+|M4 x 20mm Bolt|8|$0.95|https://www.mcmaster.com/91239a152|
+|11mm M4 Spacer|8|$12.40|https://www.mcmaster.com/92871a311|
+|M4 Locknut|8|$0.93|https://www.mcmaster.com/94645a101|
+|Spool|4|$64.00|www.example.com|
+|Total: |32|$85.00| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $254.99

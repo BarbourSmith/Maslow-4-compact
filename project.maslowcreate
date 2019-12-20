@@ -48,7 +48,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 13.5
+                            "ioValue": 18.5
                         }
                     ]
                 },
@@ -90,7 +90,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 13.5
+                            "ioValue": 18.5
                         }
                     ]
                 },
@@ -132,7 +132,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 13.5
+                            "ioValue": 18.5
                         }
                     ]
                 },
@@ -174,7 +174,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 13.5
+                            "ioValue": 18.5
                         }
                     ]
                 },
@@ -202,8 +202,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 872,
-                    "y": 137,
+                    "x": 873,
+                    "y": 142,
                     "uniqueID": 632843,
                     "ioValues": [
                         {
@@ -212,6 +212,14 @@
                         },
                         {
                             "name": "3D shape 2",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 3",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 4",
                             "ioValue": 10
                         }
                     ],
@@ -312,10 +320,30 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 3",
+                    "ap2Primary": false,
+                    "ap1ID": 792271,
+                    "ap2ID": 632843
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 506511,
                     "ap2ID": 417075
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 4",
+                    "ap2Primary": false,
+                    "ap1ID": 417075,
+                    "ap2ID": 632843
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 632843
                 }
             ],
             "fileTypeVersion": 1
