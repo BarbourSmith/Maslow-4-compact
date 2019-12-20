@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 83,
-            "y": 200,
+            "x": 76,
+            "y": 139,
             "uniqueID": 506035,
             "ioValues": [],
             "topLevel": false,
@@ -350,6 +350,70 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Top Plate",
+            "x": 80,
+            "y": 212,
+            "uniqueID": 663821,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Top Plate Assembly",
+                    "x": 103,
+                    "y": 131,
+                    "uniqueID": 546985,
+                    "projectID": "229338872",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 550,
+                    "y": 156,
+                    "uniqueID": 502159,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 90
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 163.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 546985,
+                    "ap2ID": 502159
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 502159
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Maslow 4 compact",
             "x": 0,
             "y": 0,
@@ -369,9 +433,17 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 83,
-                    "y": 200,
+                    "x": 76,
+                    "y": 139,
                     "uniqueID": 506035,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Top Plate",
+                    "x": 80,
+                    "y": 212,
+                    "uniqueID": 663821,
                     "ioValues": []
                 },
                 {
