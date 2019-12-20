@@ -2,11 +2,14 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|ET-WGM58AE|4|$44.00|http://www.etonm.com/|
+|8mm Shaft Coupler|4|$10.80|https://www.amazon.com/WEIJ-Coupling-Diameter-Aluminum-Connector/dp/B07MBGP5BP|
 |GT2 Pulley|4|$6.71|https://www.amazon.com/ZRM-Timing-Pulley-Printer-Accessory/dp/B07L54BSXS|
-|M4 x 20mm Bolt|8|$0.95|https://www.mcmaster.com/91239a152|
+|8mm Shaft|4|$40.92|https://www.mcmaster.com/1265k64|
+|M4 x 20mm Bolt|24|$2.86|https://www.mcmaster.com/91239a152|
 |11mm M4 Spacer|8|$12.40|https://www.mcmaster.com/92871a311|
 |M4 Locknut|8|$0.93|https://www.mcmaster.com/94645a101|
 |Spool|4|$64.00|www.example.com|
-|Total: |32|$85.00| |
+|Total: |60|$182.62| |
 
- 3xCOG MSRP: $254.99
+ 3xCOG MSRP: $547.86
