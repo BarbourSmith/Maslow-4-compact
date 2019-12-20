@@ -40,13 +40,17 @@
                     ]
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "Measure Height",
-                    "x": 221,
-                    "y": 250,
-                    "uniqueID": 712227,
-                    "projectID": "229185705",
-                    "ioValues": []
+                    "atomType": "Constant",
+                    "name": "Distance",
+                    "x": 116,
+                    "y": 217,
+                    "uniqueID": 508446,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 13.5
+                        }
+                    ]
                 },
                 {
                     "atomType": "Rotate",
@@ -86,7 +90,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 24.450000000000006
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -128,7 +132,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 24.450000000000006
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -170,7 +174,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 24.450000000000006
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -238,39 +242,11 @@
                     "ap2ID": 593956
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "Geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 592345,
-                    "ap2ID": 712227
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 593956,
                     "ap2ID": 150982
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "zDist",
-                    "ap2Primary": false,
-                    "ap1ID": 712227,
-                    "ap2ID": 523702
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "zDist",
-                    "ap2Primary": false,
-                    "ap1ID": 712227,
-                    "ap2ID": 488165
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "zDist",
-                    "ap2Primary": false,
-                    "ap1ID": 712227,
-                    "ap2ID": 506511
                 },
                 {
                     "ap1Name": "geometry",
@@ -341,12 +317,6 @@
                     "ap2Primary": false,
                     "ap1ID": 417075,
                     "ap2ID": 749402
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 749402
                 }
             ],
             "fileTypeVersion": 1
