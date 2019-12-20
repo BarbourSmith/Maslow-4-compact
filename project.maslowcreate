@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 211,
-            "y": 208,
+            "x": 83,
+            "y": 200,
             "uniqueID": 506035,
             "ioValues": [],
             "topLevel": false,
@@ -86,7 +86,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 17.750003195043746
+                            "ioValue": 24.450000000000006
                         }
                     ]
                 },
@@ -128,7 +128,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 17.750003195043746
+                            "ioValue": 24.450000000000006
                         }
                     ]
                 },
@@ -170,7 +170,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 17.750003195043746
+                            "ioValue": 24.450000000000006
                         }
                     ]
                 },
@@ -363,8 +363,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Dewalt DW611",
-                    "x": 220,
-                    "y": 93,
+                    "x": 79,
+                    "y": 72,
                     "uniqueID": 109013,
                     "projectID": "229179114",
                     "ioValues": []
@@ -372,16 +372,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 211,
-                    "y": 208,
+                    "x": 83,
+                    "y": 200,
                     "uniqueID": 506035,
                     "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 484,
-                    "y": 134,
+                    "x": 435,
+                    "y": 97,
                     "uniqueID": 516886,
                     "ioValues": [
                         {
