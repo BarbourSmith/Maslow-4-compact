@@ -85,6 +85,12 @@ undefined
 ## Top Plate Blank
 
 
+## Plate Template
+
+
+## Cut Aways
+
+
 ## Motors
 
 
@@ -142,7 +148,13 @@ undefined
 ## Bottom Plate
 
 
-## Cut Away
+## Template
+
+
+## Plate Template
+
+
+## Cut Aways
 
 
 ## Slides
