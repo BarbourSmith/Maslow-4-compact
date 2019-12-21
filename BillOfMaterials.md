@@ -10,6 +10,7 @@
 |11mm M4 Spacer|8|$12.40|https://www.mcmaster.com/92871a311|
 |M4 Locknut|8|$0.93|https://www.mcmaster.com/94645a101|
 |Spool|4|$64.00|www.example.com|
-|Total: |58|$169.69| |
+|20MM Linear Slide|2|$6.00|www.example.com|
+|Total: |60|$175.69| |
 
- 3xCOG MSRP: $509.07
+ 3xCOG MSRP: $527.07
