@@ -4,7 +4,7 @@
             "atomType": "Molecule",
             "name": "Arms",
             "x": 83,
-            "y": 141,
+            "y": 109,
             "uniqueID": 506035,
             "ioValues": [],
             "topLevel": false,
@@ -351,8 +351,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Plate",
-            "x": 80,
-            "y": 212,
+            "x": 82,
+            "y": 166,
             "uniqueID": 663821,
             "ioValues": [],
             "topLevel": false,
@@ -415,8 +415,8 @@
         {
             "atomType": "Molecule",
             "name": "Bottom Plate",
-            "x": 80,
-            "y": 268,
+            "x": 82,
+            "y": 221,
             "uniqueID": 302888,
             "ioValues": [],
             "topLevel": false,
@@ -478,6 +478,42 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Sled",
+            "x": 168,
+            "y": 257,
+            "uniqueID": 734592,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Maslow 4 Sled",
+                    "x": 241,
+                    "y": 165,
+                    "uniqueID": 592400,
+                    "projectID": "205851197",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 163.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 592400
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Maslow 4 compact",
             "x": 0,
             "y": 0,
@@ -488,8 +524,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Dewalt DW611",
-                    "x": 79,
-                    "y": 72,
+                    "x": 83,
+                    "y": 50,
                     "uniqueID": 109013,
                     "projectID": "229179114",
                     "ioValues": []
@@ -498,24 +534,32 @@
                     "atomType": "Molecule",
                     "name": "Arms",
                     "x": 83,
-                    "y": 141,
+                    "y": 109,
                     "uniqueID": 506035,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Top Plate",
-                    "x": 80,
-                    "y": 212,
+                    "x": 82,
+                    "y": 166,
                     "uniqueID": 663821,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Bottom Plate",
-                    "x": 80,
-                    "y": 268,
+                    "x": 82,
+                    "y": 221,
                     "uniqueID": 302888,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Sled",
+                    "x": 168,
+                    "y": 257,
+                    "uniqueID": 734592,
                     "ioValues": []
                 },
                 {
@@ -539,6 +583,10 @@
                         },
                         {
                             "name": "3D shape 5",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 6",
                             "ioValue": 10
                         }
                     ],
@@ -579,6 +627,13 @@
                     "ap2Name": "3D shape 5",
                     "ap2Primary": false,
                     "ap1ID": 302888,
+                    "ap2ID": 516886
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 6",
+                    "ap2Primary": false,
+                    "ap1ID": 734592,
                     "ap2ID": 516886
                 },
                 {
