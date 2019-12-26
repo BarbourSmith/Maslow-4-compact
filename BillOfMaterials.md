@@ -2,22 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|ET-WGM58AE|5|$55.00|http://www.etonm.com/|
-|Leadscrew Nut|1|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
-|8mm Lead Screw|1|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
-|8mm Shaft Coupler|4|$10.80|https://www.amazon.com/WEIJ-Coupling-Diameter-Aluminum-Connector/dp/B07MBGP5BP|
-|GT2 Pulley|4|$6.71|https://www.amazon.com/ZRM-Timing-Pulley-Printer-Accessory/dp/B07L54BSXS|
-|8mm Shaft|3|$30.69|https://www.mcmaster.com/1265k64|
-|M6 Locknut|2|$0.10|https://www.mcmaster.com/90576a115|
-|M4 x 20mm Bolt|24|$2.86|https://www.mcmaster.com/91239a152|
-|11mm M4 Spacer|8|$12.40|https://www.mcmaster.com/92871a311|
-|M4 Locknut|8|$0.93|https://www.mcmaster.com/94645a101|
-|20mm Shaft Support|2|$4.00|https://www.mcwww.example.commaster.com/62645k42|
-|Joint Connector|2|$4.50|https://www.woodcraft.com/products/joint-connector-small-2-1-2-to-3-1-4|
-|Spool|4|$64.00|www.example.com|
-|Amsteel Blue|44|$0.00|www.example.com|
-|20MM Linear Slide|2|$6.00|www.example.com|
-|20mm Linear Rod|2|$4.00|www.example.com|
-|Total: |116|$211.99| |
+|Total: |0|$0.00| |
 
- 3xCOG MSRP: $635.96
+ 3xCOG MSRP: $0.00
