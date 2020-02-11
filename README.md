@@ -7,175 +7,34 @@
 ## Maslow 4 compact
 
 
-## Dewalt DW611
-
-
 ## Arms
 
 
 ## Maslow 4 Arm2
 
 
-## Maslow 4 Metal Arm Spacer
+## Maslow 4 Spool2
 
 
-## Outline
+The belt is length 350mm the diameter of the large sprocket is 101.87 and it has 160 teeth. The small sprocket has 20T for a diameter of 12.7324
 
 
-## Cutaways
+## Arm Two Maslow 4
+
+
+## Drive System
 
 
 ## Maslow 4 Spool2
 
 
-Readme text here
-
-
-## Cut Away
-
-
-undefined
-
-
-## Measure Height
-
-
-## Measure Height
-
-
-## Front Roller Hardware
-
-
-## Hardware Stack
-
-
-## M4 Locknut
-
-
-undefined
-
-
-## M4x20 Bolt
-
-
-undefined
-
-
-## 11mm M4 Spacer
-
-
-undefined
-
-
-## Drive Belt
-
-
-## GT2 Belt Aproximation 
-
-
-## Console Log Belt Size
-
-
-## GT2 Pulley 20tooth
-
-
-undefined
-
-
-undefined
-
-
-## Cable
-
-
-undefined
-
-
-## Roller
-
-
-## Bearing Block 2
-
-
-## Maslow 4 Metal Arm Spacer
-
-
-## Outline
-
-
-## Cutaways
-
-
-## Cutaways
-
-
-## Slice
-
-
-## Export as JSON
-
-
-## Wireframe
-
-
-undefined
-
-
-## Bearing Cutout
-
-
-## Skateboard Bearing
-
-
-undefined
-
-
-## Roller
-
-
-undefined
-
-
-undefined
+The belt is length 350mm the diameter of the large sprocket is 101.87 and it has 160 teeth. The small sprocket has 20T for a diameter of 12.7324
 
 
 ## Top Plate
 
 
 ## Top Plate Assembly
-
-
-## Top Plate Blank
-
-
-## Plate Template
-
-
-## Cut Aways
-
-
-## Latch
-
-
-## Joint Connector
-
-
-## Keep Out
-
-
-## Nut
-
-
-undefined
-
-
-## Plate
-
-
-## Bolt
-
-
-undefined
 
 
 ## Motors
@@ -205,118 +64,10 @@ Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the mea
 The radius of this is not displayed on the diagram, and is estimated. It should be checked.
 
 
-undefined
-
-
-## M4x20 Bolt
-
-
-undefined
-
-
-## Shaft
-
-
-## 8mm to 8mm Shaft Coupler
-
-
-undefined
-
-
-## 8mm Shaft
-
-
-undefined
-
-
-## Leadscrew Nut
-
-
-## 8mm Lead Screw Nut
-
-
-## Cut Aways
-
-
-undefined
-
-
-## Bottom Plate
-
-
-## Bottom Plate
-
-
-## Template
-
-
-## Plate Template
-
-
-## Cut Aways
-
-
-## Latch
-
-
-## Joint Connector
-
-
-## Keep Out
-
-
-## Nut
-
-
-undefined
-
-
-## Plate
-
-
-## Bolt
-
-
-undefined
-
-
-## Slides
-
-
-## 20mm Linear Slide
-
-
-## cutaways
-
-
-undefined
-
-
 ## Sled
 
 
 ## Maslow 4 Sled
-
-
-## Outline
-
-
-## Linear Slides
-
-
-## 20mm Rail Base
-
-
-## Cutaways
-
-
-undefined
-
-
-## 20mm Linear Rod
-
-
-undefined
 
 
 ## Motor and Riser
@@ -338,20 +89,5 @@ Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the mea
 
 
 The radius of this is not displayed on the diagram, and is estimated. It should be checked.
-
-
-undefined
-
-
-## 8mm to 8mm Shaft Coupler
-
-
-undefined
-
-
-## 8mm Lead Screw
-
-
-undefined
 
 
