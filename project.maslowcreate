@@ -424,8 +424,8 @@
         {
             "atomType": "Molecule",
             "name": "Bottom Plate",
-            "x": 82,
-            "y": 221,
+            "x": 72,
+            "y": 217,
             "uniqueID": 302888,
             "ioValues": [],
             "topLevel": false,
@@ -586,8 +586,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bottom Plate",
-                    "x": 82,
-                    "y": 221,
+                    "x": 72,
+                    "y": 217,
                     "uniqueID": 302888,
                     "ioValues": []
                 },
