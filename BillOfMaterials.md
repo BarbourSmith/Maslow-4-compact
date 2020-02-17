@@ -2,6 +2,17 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|ET-WGM58AE|6|$55.00|http://www.etonm.com/|
+|name|45|$0.80|https://www.amazon.com/Amsteel-Blue-64-Rope-Strand/dp/B003YHV3E8|
+|Leadscrew Nut|2|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
+|8mm Lead Screw|2|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
+|8mm Shaft Coupler|5|$10.80|https://www.amazon.com/WEIJ-Coupling-Diameter-Aluminum-Connector/dp/B07MBGP5BP|
+|8mm Shaft|4|$30.69|https://www.mcmaster.com/1265k64|
+|Tight Hold Latch|3|$7.62|https://www.mcmaster.com/1794A41|
+|148ZZ Bearing|9|$62.16|https://www.mcmaster.com/7804k116|
+|20mm Shaft Support|3|$4.00|https://www.mcwww.example.commaster.com/62645k42|
+|20MM Linear Slide|3|$6.00|www.example.com|
+|20mm Linear Rod|3|$4.00|www.example.com|
+|Total: |85|$191.07| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $573.21
