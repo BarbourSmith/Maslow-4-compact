@@ -2,13 +2,84 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Top Plate",
+            "x": 0.1903367496339678,
+            "y": 0.22605363984674332,
+            "uniqueID": 663821,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Top Plate Assembly",
+                    "x": 106,
+                    "y": 133,
+                    "uniqueID": 546985,
+                    "projectID": "229338872",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 556,
+                    "y": 166,
+                    "uniqueID": 502159,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 102
+                        }
+                    ]
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 546985,
+                    "ap2ID": 502159
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 502159
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Arms",
-            "x": 80,
-            "y": 104,
+            "x": 0.14128843338213762,
+            "y": 0.6513409961685823,
             "uniqueID": 506035,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                },
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Arm Two Maslow 4",
@@ -224,13 +295,6 @@
                         }
                     ],
                     "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -350,77 +414,20 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Top Plate",
-            "x": 82,
-            "y": 166,
-            "uniqueID": 663821,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Top Plate Assembly",
-                    "x": 106,
-                    "y": 133,
-                    "uniqueID": 546985,
-                    "projectID": "229338872",
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 556,
-                    "y": 166,
-                    "uniqueID": 502159,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 102
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 546985,
-                    "ap2ID": 502159
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 502159
-                }
-            ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Bottom Plate",
-            "x": 67,
-            "y": 229,
+            "x": 0.16398243045387995,
+            "y": 0.8160919540229885,
             "uniqueID": 302888,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                },
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Bottom Plate",
@@ -450,13 +457,6 @@
                             "ioValue": 19
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -479,12 +479,19 @@
         {
             "atomType": "Molecule",
             "name": "Sled",
-            "x": 168,
-            "y": 257,
+            "x": 0.23865300146412882,
+            "y": 0.896551724137931,
             "uniqueID": 734592,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                },
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Maslow 4 Sled",
@@ -514,13 +521,6 @@
                             "ioValue": -50
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -550,10 +550,18 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Molecule",
+                    "name": "Top Plate",
+                    "x": 0.1903367496339678,
+                    "y": 0.22605363984674332,
+                    "uniqueID": 663821,
+                    "ioValues": []
+                },
+                {
                     "atomType": "GitHubMolecule",
                     "name": "Dewalt DW611",
-                    "x": 85,
-                    "y": 50,
+                    "x": 0.13616398243045388,
+                    "y": 0.42911877394636017,
                     "uniqueID": 109013,
                     "projectID": "229179114",
                     "ioValues": []
@@ -561,40 +569,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 80,
-                    "y": 104,
+                    "x": 0.14128843338213762,
+                    "y": 0.6513409961685823,
                     "uniqueID": 506035,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Top Plate",
-                    "x": 82,
-                    "y": 166,
-                    "uniqueID": 663821,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Bottom Plate",
-                    "x": 67,
-                    "y": 229,
-                    "uniqueID": 302888,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Sled",
-                    "x": 168,
-                    "y": 257,
-                    "uniqueID": 734592,
                     "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 435,
-                    "y": 121,
+                    "x": 0.5490483162518301,
+                    "y": 0.4904214559386973,
                     "uniqueID": 516886,
                     "ioValues": [
                         {
@@ -621,14 +605,37 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Bottom Plate",
+                    "x": 0.16398243045387995,
+                    "y": 0.8160919540229885,
+                    "uniqueID": 302888,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Sled",
+                    "x": 0.23865300146412882,
+                    "y": 0.896551724137931,
+                    "uniqueID": 734592,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
                     "ioValues": []
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 3",
+                    "ap2Primary": false,
+                    "ap1ID": 663821,
+                    "ap2ID": 516886
+                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 4",
@@ -644,11 +651,10 @@
                     "ap2ID": 516886
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 3",
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
                     "ap2Primary": false,
-                    "ap1ID": 663821,
-                    "ap2ID": 516886
+                    "ap1ID": 516886
                 },
                 {
                     "ap1Name": "Geometry",
@@ -663,12 +669,6 @@
                     "ap2Primary": false,
                     "ap1ID": 734592,
                     "ap2ID": 516886
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 516886
                 }
             ],
             "fileTypeVersion": 1

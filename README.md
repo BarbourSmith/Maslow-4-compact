@@ -7,6 +7,45 @@
 ## Maslow 4 compact
 
 
+## Top Plate
+
+
+## Top Plate Assembly
+
+
+## Motors
+
+
+## Motor and Keepout
+
+
+## Motor Assembly Compact Maslow 4
+
+
+## Motor and Hardware
+
+
+## Maslow Motor
+
+
+The motor shaft is 8mm and has one flat side, but is shown here with a 9mm round shaft to create proper cutaway holes.
+
+
+This is a model of the Etonm ET-WGM58AE motor used by the Maslow CNC. A schematic for this motor can be found in https://github.com/MaslowCNC/Electronics/tree/master/Documentation/Data%20Sheets 
+
+
+## Bump Around Shaft
+
+
+The radius of this is not displayed on the diagram, and is estimated. It should be checked.
+
+
+## Mounting Holes
+
+
+Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the measured hole id for the thread which will be 3.3mm 
+
+
 ## Arms
 
 
@@ -22,39 +61,6 @@
 The belt is length 350mm the diameter of the large sprocket is 101.87 and it has 160 teeth. The small sprocket has 20T for a diameter of 12.7324
 
 
-## Top Plate
-
-
-## Top Plate Assembly
-
-
-## Motors
-
-
-## Motor Assembly Compact Maslow 4
-
-
-## Motor and Hardware
-
-
-## Maslow Motor
-
-
-This is a model of the Etonm ET-WGM58AE motor used by the Maslow CNC. A schematic for this motor can be found in https://github.com/MaslowCNC/Electronics/tree/master/Documentation/Data%20Sheets 
-
-
-## Mounting Holes
-
-
-Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the measured hole id for the thread which will be 3.3mm 
-
-
-## Bump Around Shaft
-
-
-The radius of this is not displayed on the diagram, and is estimated. It should be checked.
-
-
 ## Sled
 
 
@@ -67,18 +73,21 @@ The radius of this is not displayed on the diagram, and is estimated. It should 
 ## Maslow Motor
 
 
+The motor shaft is 8mm and has one flat side, but is shown here with a 9mm round shaft to create proper cutaway holes.
+
+
 This is a model of the Etonm ET-WGM58AE motor used by the Maslow CNC. A schematic for this motor can be found in https://github.com/MaslowCNC/Electronics/tree/master/Documentation/Data%20Sheets 
-
-
-## Mounting Holes
-
-
-Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the measured hole id for the thread which will be 3.3mm 
 
 
 ## Bump Around Shaft
 
 
 The radius of this is not displayed on the diagram, and is estimated. It should be checked.
+
+
+## Mounting Holes
+
+
+Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the measured hole id for the thread which will be 3.3mm 
 
 
