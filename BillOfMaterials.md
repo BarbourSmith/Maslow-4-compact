@@ -2,6 +2,21 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|ET-WGM58AE|1|$11.00|http://www.etonm.com/|
+|DC Gear Motor|4|$0.00|https://uamper.com|
+|name|44|$0.80|https://www.amazon.com/Amsteel-Blue-64-Rope-Strand/dp/B003YHV3E8|
+|8mm Lead Screw|1|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
+|8mm Shaft Coupler|1|$2.70|https://www.amazon.com/WEIJ-Coupling-Diameter-Aluminum-Connector/dp/B07MBGP5BP|
+|GT2 Pulley|4|$26.84|https://www.amazon.com/ZRM-Timing-Pulley-Printer-Accessory/dp/B07L54BSXS|
+|Magnet|4|$0.76|https://www.digikey.com/product-detail/en/radial-magnet-inc/9049/469-1075-ND/6030786|
+|148ZZ Bearing|8|$62.16|https://www.mcmaster.com/7804k116|
+|M5 Locknut|8|$3.67|https://www.mcmaster.com/90576a104|
+|M5 x 30mm Bolt|8|$1.12|https://www.mcmaster.com/91239a236|
+|20mm Shaft Support|2|$4.00|https://www.mcwww.example.commaster.com/62645k42|
+|Roller|4|$8.00|www.example.com|
+|JST XH 6 Surface Mount Connector|4|$1.60|www.example.com|
+|20MM Linear Slide|2|$6.00|www.example.com|
+|20mm Linear Rod|2|$4.00|www.example.com|
+|Total: |97|$137.65| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $412.95
