@@ -56,7 +56,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 24
+                            "ioValue": 19
                         }
                     ]
                 },
@@ -362,24 +362,17 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Bottom Plate",
-                    "x": 0.4084919472913617,
-                    "y": 0.5747126436781609,
+                    "x": 0.2964860907759883,
+                    "y": 0.524904214559387,
                     "uniqueID": 131388,
                     "projectID": "229364619",
                     "ioValues": []
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 0.9853587115666179,
-                    "y": 0.5,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 498,
-                    "y": 138,
+                    "x": 0.5373352855051244,
+                    "y": 0.5210727969348659,
                     "uniqueID": 577168,
                     "ioValues": [
                         {
@@ -392,9 +385,16 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 19
+                            "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
