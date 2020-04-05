@@ -67,8 +67,8 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 0.1383601756954612,
-            "y": 0.6130268199233716,
+            "x": 0.13689604685212298,
+            "y": 0.6015325670498084,
             "uniqueID": 506035,
             "ioValues": [],
             "topLevel": false,
@@ -120,7 +120,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 30
+                            "ioValue": 24
                         }
                     ]
                 },
@@ -162,7 +162,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 21.5
+                            "ioValue": 23.5
                         }
                     ]
                 },
@@ -183,7 +183,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 21.5
+                            "ioValue": 23.5
                         }
                     ]
                 },
@@ -196,7 +196,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 21.5
+                            "ioValue": 23.5
                         }
                     ],
                     "evolve": false,
@@ -273,7 +273,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 21.5
+                            "ioValue": 23.5
                         }
                     ]
                 },
@@ -571,8 +571,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 0.1383601756954612,
-                    "y": 0.6130268199233716,
+                    "x": 0.13689604685212298,
+                    "y": 0.6015325670498084,
                     "uniqueID": 506035,
                     "ioValues": []
                 },
