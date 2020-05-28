@@ -1,5 +1,21 @@
 {
-    "molecules": [
+    "atomType": "Molecule",
+    "name": "Maslow 4 compact",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 654729,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "GitHubMolecule",
+            "name": "Dewalt DW611",
+            "x": 0.13396778916544655,
+            "y": 0.40229885057471265,
+            "uniqueID": 109013,
+            "projectID": "229179114",
+            "ioValues": []
+        },
         {
             "atomType": "Molecule",
             "name": "Arms",
@@ -68,6 +84,10 @@
                     "uniqueID": 366690,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "x-axis degrees",
                             "ioValue": 0
                         },
@@ -110,6 +130,10 @@
                     "uniqueID": 488165,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -146,6 +170,10 @@
                     "y": 0.7126436781609194,
                     "uniqueID": 792271,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -200,6 +228,10 @@
                     "uniqueID": 506511,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -220,6 +252,10 @@
                     "y": 0.8237547892720306,
                     "uniqueID": 417075,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -351,6 +387,31 @@
             "fileTypeVersion": 1
         },
         {
+            "atomType": "Assembly",
+            "name": "Assembly",
+            "x": 0.5490483162518301,
+            "y": 0.4904214559386973,
+            "uniqueID": 516886,
+            "ioValues": [
+                {
+                    "name": "3D shape 2",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 4",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 5",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 6",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Molecule",
             "name": "Bottom Plate",
             "x": 0.1617862371888726,
@@ -479,118 +540,50 @@
             "fileTypeVersion": 1
         },
         {
-            "atomType": "Molecule",
-            "name": "Maslow 4 compact",
-            "x": 0,
-            "y": 0,
-            "uniqueID": 654729,
-            "ioValues": [],
-            "topLevel": true,
-            "allAtoms": [
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Dewalt DW611",
-                    "x": 0.13396778916544655,
-                    "y": 0.40229885057471265,
-                    "uniqueID": 109013,
-                    "projectID": "229179114",
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Arms",
-                    "x": 0.13689604685212298,
-                    "y": 0.6015325670498084,
-                    "uniqueID": 506035,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 0.5490483162518301,
-                    "y": 0.4904214559386973,
-                    "uniqueID": 516886,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 2",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 4",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 5",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 6",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Bottom Plate",
-                    "x": 0.1617862371888726,
-                    "y": 0.8084291187739464,
-                    "uniqueID": 302888,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Sled",
-                    "x": 0.25549048316251827,
-                    "y": 0.8773946360153256,
-                    "uniqueID": 734592,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 0.9853587115666179,
-                    "y": 0.5,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 4",
-                    "ap2Primary": false,
-                    "ap1ID": 109013,
-                    "ap2ID": 516886
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 2",
-                    "ap2Primary": false,
-                    "ap1ID": 506035,
-                    "ap2ID": 516886
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 516886
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 5",
-                    "ap2Primary": false,
-                    "ap1ID": 302888,
-                    "ap2ID": 516886
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 6",
-                    "ap2Primary": false,
-                    "ap1ID": 734592,
-                    "ap2ID": 516886
-                }
-            ],
-            "fileTypeVersion": 1
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9853587115666179,
+            "y": 0.5,
+            "ioValues": []
         }
     ],
+    "allConnectors": [
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 4",
+            "ap2Primary": false,
+            "ap1ID": 109013,
+            "ap2ID": 516886
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 2",
+            "ap2Primary": false,
+            "ap1ID": 506035,
+            "ap2ID": 516886
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "number or geometry",
+            "ap2Primary": false,
+            "ap1ID": 516886
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 5",
+            "ap2Primary": false,
+            "ap1ID": 302888,
+            "ap2ID": 516886
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 6",
+            "ap2Primary": false,
+            "ap1ID": 734592,
+            "ap2ID": 516886
+        }
+    ],
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
     "circleSegmentSize": "10"
 }
