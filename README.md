@@ -28,27 +28,33 @@ The belt is length 350mm the diameter of the large sprocket is 101.87 and it has
 ## Maslow 4 Sled
 
 
-## Motor and Riser
+## Z Axis Bracket
 
 
-## Maslow Motor
+## Metal Part
 
 
-The motor shaft is 8mm and has one flat side, but is shown here with a 9mm round shaft to create proper cutaway holes.
+## Upper Bend
 
 
-This is a model of the Etonm ET-WGM58AE motor used by the Maslow CNC. A schematic for this motor can be found in https://github.com/MaslowCNC/Electronics/tree/master/Documentation/Data%20Sheets 
+## Sheet Metal Tab
 
 
-## Bump Around Shaft
+## Unbent
 
 
-The radius of this is not displayed on the diagram, and is estimated. It should be checked.
+Readme text here
 
 
-## Mounting Holes
+## Lower Bend
 
 
-Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the measured hole id for the thread which will be 3.3mm 
+## Sheet Metal Tab
+
+
+## Unbent
+
+
+Readme text here
 
 
