@@ -19,21 +19,12 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 0.12664714494875548,
-            "y": 0.524904214559387,
+            "x": 0.1281112737920937,
+            "y": 0.5402298850574713,
             "uniqueID": 506035,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Bottom Plate",
-                    "x": 0.22767203513909223,
-                    "y": 0.31800766283524906,
-                    "uniqueID": 262802,
-                    "projectID": "236073673",
-                    "ioValues": []
-                },
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
@@ -57,7 +48,7 @@
                 },
                 {
                     "atomType": "GitHubMolecule",
-                    "name": "Bottom Plate",
+                    "name": "Arm Two Maslow 4",
                     "x": 0.13103953147877012,
                     "y": 0.47126436781609193,
                     "uniqueID": 450382,
