@@ -2,6 +2,24 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|8mm Lead Screw|1|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
+|DC Gear Motor|5|$84.95|https://www.amazon.com/Greartisan-Electric-Reduction-Eccentric-Diameter/dp/B0745YDSJS|
+|8mm Shaft Coupler|1|$2.70|https://www.amazon.com/WEIJ-Coupling-Diameter-Aluminum-Connector/dp/B07MBGP5BP|
+|GT2 Pulley|4|$26.84|https://www.amazon.com/ZRM-Timing-Pulley-Printer-Accessory/dp/B07L54BSXS|
+|Encoder Magnet|4|$0.76|https://www.digikey.com/product-detail/en/radial-magnet-inc/9049/469-1075-ND/6030786|
+|148ZZ Bearing|8|$62.16|https://www.mcmaster.com/7804k116|
+|M3 Locknut|9|$0.32|https://www.mcmaster.com/90576A102/|
+|M6 Locknut|4|$0.20|https://www.mcmaster.com/90576A115|
+|M5 Locknut|8|$3.67|https://www.mcmaster.com/90576a104|
+|name|1|$0.16|https://www.mcmaster.com/91239a126|
+|M5 x 30mm Bolt|8|$1.12|https://www.mcmaster.com/91239a236|
+|M6x25 Bolt|4|$1.31|https://www.mcmaster.com/92095A242|
+|M3 x 30 Bolt|32|$4.16|https://www.mcmaster.com/92095a187|
+|20mm Shaft Support|2|$4.00|https://www.mcwww.example.commaster.com/62645k42|
+|JST XH 6 Surface Mount Connector|4|$1.60|www.example.com|
+|GT2 Belt|4|$12.00|www.example.com|
+|20MM Linear Slide|2|$6.00|www.example.com|
+|20mm Linear Rod|2|$4.00|www.example.com|
+|Total: |103|$220.94| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $662.82

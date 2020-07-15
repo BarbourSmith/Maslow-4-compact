@@ -28,8 +28,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 0.3682284040995608,
-                    "y": 0.20306513409961685,
+                    "x": 0.32723279648609077,
+                    "y": 0.210727969348659,
                     "uniqueID": 150982,
                     "ioValues": [
                         {
@@ -42,24 +42,15 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 45
+                            "ioValue": 225
                         }
                     ]
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "Arm Two Maslow 4",
-                    "x": 0.13103953147877012,
-                    "y": 0.47126436781609193,
-                    "uniqueID": 450382,
-                    "projectID": "236073673",
-                    "ioValues": []
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.2759882869692533,
-                    "y": 0.5363984674329502,
+                    "x": 0.23499267935578333,
+                    "y": 0.39463601532567044,
                     "uniqueID": 593956,
                     "ioValues": [
                         {
@@ -75,6 +66,15 @@
                             "ioValue": 17
                         }
                     ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Arm Two Maslow 4",
+                    "x": 0.13103953147877012,
+                    "y": 0.47126436781609193,
+                    "uniqueID": 450382,
+                    "projectID": "236073673",
+                    "ioValues": []
                 },
                 {
                     "atomType": "Rotate",
@@ -100,8 +100,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.45900439238652996,
-                    "y": 0.48275862068965514,
+                    "x": 0.431185944363104,
+                    "y": 0.4636015325670498,
                     "uniqueID": 523702,
                     "ioValues": [
                         {
@@ -121,8 +121,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.5724743777452416,
-                    "y": 0.6206896551724138,
+                    "x": 0.5673499267935578,
+                    "y": 0.6360153256704981,
                     "uniqueID": 488165,
                     "ioValues": [
                         {
@@ -267,18 +267,18 @@
                     "ap2ID": 632843
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 450382,
-                    "ap2ID": 593956
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 593956,
                     "ap2ID": 150982
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 450382,
+                    "ap2ID": 593956
                 },
                 {
                     "ap1Name": "geometry",
