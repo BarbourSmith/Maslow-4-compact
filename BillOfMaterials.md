@@ -2,6 +2,18 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|Leadscrew Nut|2|$10.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
+|8mm Lead Screw|1|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
+|DC Gear Motor|4|$67.96|https://www.amazon.com/Greartisan-Electric-Reduction-Eccentric-Diameter/dp/B0745YDSJS|
+|148ZZ Bearing|16|$124.32|https://www.mcmaster.com/7804k116|
+|M3 Locknut|20|$0.70|https://www.mcmaster.com/90576A102/|
+|M3 x 30 Bolt|40|$5.20|https://www.mcmaster.com/92095a187|
+|Thin NEMA14 Stepper Motor|1|$22.05|www.example.cohttps://www.amazon.com/gp/product/B00W8XJ6RK|
+|GT2 Belt|4|$12.00|www.example.com|
+|Encoder PCB|4|$28.00|www.example.com|
+|JST XH 6 Surface Mount Connector|4|$1.60|www.example.com|
+|20mm Linear Rod|2|$4.00|www.example.com|
+|5mm to 8mm Shaft Coupler|1|$1.00|www.example.com|
+|Total: |99|$281.83| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $845.50
