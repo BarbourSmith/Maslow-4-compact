@@ -8,6 +8,15 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "GitHubMolecule",
+            "name": "Injection Molded Sled",
+            "x": 0.19692532942898977,
+            "y": 0.6832061068702291,
+            "uniqueID": 100320,
+            "projectID": "282505340",
+            "ioValues": []
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9853587115666179,
